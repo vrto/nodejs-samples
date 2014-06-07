@@ -1,0 +1,7 @@
+{
+    "name": "parallel_flow_numble",
+    "version": "0.0.1",
+    "dependencies": {
+        "nimble": "*"
+    }
+}

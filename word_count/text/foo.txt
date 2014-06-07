@@ -1,0 +1,1 @@
+Before trying out the application, create some text files in the text directory you cre- ated earlier. After you’ve created these files, open a command line and enter the fol- lowing commands to change to the application directory and execute the script:
